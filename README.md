@@ -1,2 +1,2 @@
 # Hello-World
-Hello-World program (what else?)
+Hello-World programs (what else?)
